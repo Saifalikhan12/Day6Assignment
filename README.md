@@ -1,2 +1,2 @@
-# Day6Assignment
+# Day8Assignment
 Assignment for day 6
